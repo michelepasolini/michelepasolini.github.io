@@ -1,15 +1,23 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Master of Common Law
+institute: University of College Dublin (UCD)
+location: Dublin, Ireland
+url: https://www.ucd.ie/
+date: 2021-2024
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Data Governance and Data Protection Law(GDPR)",
+    "Cybercrime Law",
+    "Criminal Law",
+    "Constitutional Law",
+    "Company Law",
+    "Property Law",
+    "Contract Law",
+    "Evidence Law",
+    "EU&Commerical Law",
+    "Trust Law",
+    "Equity Law",
+    "Administration Law",
+    "International Taxation Law",
   ]
 ---

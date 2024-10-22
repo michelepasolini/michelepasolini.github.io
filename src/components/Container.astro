@@ -8,9 +8,8 @@ const works = await Astro.glob("../pages/works/*.md");
 const projects = await Astro.glob("../pages/projects/*.md");
 const studies = await Astro.glob("../pages/studies/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
-const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
-const PDF = "/cv-20240219.pdf";
+const PDF = "/CV_Xavier2024.png";
 ---
 
 <div class="join join-vertical gap-1">
@@ -18,24 +17,6 @@ const PDF = "/cv-20240219.pdf";
     <article class="text-justify">
       <Fragment set:html={about.compiledContent()} />
     </article>
-  </AccordionLayout>
-
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
-    {
-      works.map((item) => {
-        return (
-          <Card
-            title={item.frontmatter.title}
-            timeframe={item.frontmatter.date}
-            description={item.compiledContent()}
-            tags={item.frontmatter.tags}
-            url={item.frontmatter.url}
-            url_name={item.frontmatter.org}
-            location={item.frontmatter.location}
-          />
-        );
-      })
-    }
   </AccordionLayout>
 
   <AccordionLayout title={"Studies"} icon={"carbon:education"}>
@@ -49,23 +30,6 @@ const PDF = "/cv-20240219.pdf";
             tags={item.frontmatter.tags}
             url={item.url}
             url_name={item.frontmatter.institute}
-          />
-        );
-      })
-    }
-  </AccordionLayout>
-
-  <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
-    {
-      projects.map((item) => {
-        return (
-          <Card
-            title={item.frontmatter.title}
-            timeframe={item.frontmatter.date}
-            description={item.compiledContent()}
-            tags={item.frontmatter.tags}
-            url={item.frontmatter.url}
-            url_name={"View project"}
           />
         );
       })
@@ -89,16 +53,35 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
+  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
     {
-      blogs.map((item) => {
+      works.map((item) => {
         return (
           <Card
             title={item.frontmatter.title}
             timeframe={item.frontmatter.date}
             description={item.compiledContent()}
+            tags={item.frontmatter.tags}
             url={item.frontmatter.url}
-            url_name={item.frontmatter.url_name}
+            url_name={item.frontmatter.org}
+            location={item.frontmatter.location}
+          />
+        );
+      })
+    }
+  </AccordionLayout>
+
+  <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
+    {
+      projects.map((item) => {
+        return (
+          <Card
+            title={item.frontmatter.title}
+            timeframe={item.frontmatter.date}
+            description={item.compiledContent()}
+            tags={item.frontmatter.tags}
+            url={item.frontmatter.url}
+            url_name={"View project"}
           />
         );
       })

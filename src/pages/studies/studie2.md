@@ -1,8 +1,14 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: Bachelor Degree of Spanish Literature
+institute: Shandong Normal University
+location: Shandong, China
+url: https://sdnu.edu.cn/
+date: 2009-2013
+tags:
+  [
+    "Spanish Literature", 
+    "SouthAmerica Literature",
+    "Spanish Economy", 
+    "Spanish history",
+  ]
 ---

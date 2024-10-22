@@ -1,10 +1,12 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
+name: "Xavier Z. Wagner"
+designation: "Pentesting Jr."
+location: Dublin, IE
 website: "http://tafutza.hn/kos"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+As a ***Pentesting Jr*** with a legal background, aspiring to become a professional RedTeamer, I bring a unique blend of technical and analytical skills. With experience in **full-stack web and Android development**, I'm passionate about ***OffSec***, driven by responsibility, resilience, and a keen eye for detail and patterns.
+
+
+

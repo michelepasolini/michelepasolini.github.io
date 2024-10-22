@@ -1,22 +1,22 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Pentesting Jr. (summer intern) 
+date: Jun.2023-Sep.2023
+url: https://7asecurity.com/
+location: Poland(Remote)
+org: 7A Security
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+  "Vulnerability Assessment", 
+  "Penetration Testing",
+  "Report Proofreading",
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- **Vulnerability Assessment**: Conduct thorough vulnerability assessments and scans on systems and applications to identify security weaknesses and potential exploitation points.
+
+- **Penetration Testing Support**: Assist senior penetration testers in executing simulated attacks to evaluate security controls, document findings, and provide actionable recommendations for remediation.
+
+- **Report Preparation**: Collaborate in the creation of detailed reports summarizing testing methodologies, results, and security recommendations to enhance client understanding and improve overall security posture.
+
+
+
