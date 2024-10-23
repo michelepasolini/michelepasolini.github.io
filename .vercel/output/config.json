@@ -1,0 +1,111 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "^/_astro/(.*)$",
+			"headers": {
+				"cache-control": "public, max-age=31536000, immutable"
+			},
+			"continue": true
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "^\\/_image$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/about\\/about\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/AndroidDev2024\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/Cyber2024\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/DevOps2024_IBM\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/DiMarketing\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/FullStackDev_Meta\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/FullstackDev2024_IBM\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/GenAI Automation2024\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/ITAutomation2024\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/blog\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/email\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/github\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/whatsapp\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/Blog\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/Cloud Migration\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/TerminatorXLegalStudy\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/studies\\/studie1\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/studies\\/studie2\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work1\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work2\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work3\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work4\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/$",
+			"dest": "_render"
+		}
+	]
+}
