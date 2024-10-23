@@ -6,4 +6,4 @@ url: //googledrive
 date: May.2024
 ---
 
-The Google Digital Marketing & E-commerce Professional Certificate on Coursera provides practical skills in SEO, SEM, social media marketing, analytics, and e-commerce. Designed for beginners, it equips learners to create impactful online marketing strategies and manage e-commerce platforms, opening doors to in-demand digital marketing careers.
+Covering SEO, SEM(email marketing), social media marketing, and e-commerce management. It equips beginners to create impactful marketing strategies and manage online platforms, opening doors to careers in digital marketing.

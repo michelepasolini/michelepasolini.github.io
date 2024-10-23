@@ -2,23 +2,22 @@
 title: Project Manager
 date: Jun.2013-Jan.2021
 url: https://www.cnpc.com.cn/en/
-location: Beijing, China(based in Bolivia, Argentina, Peru)
+location: Menodza, Santa Cruz, Lima
 org: China National Petroleum Corporation(CNPC)
 tags:
   [
+  "Supply Chain Management",
+  "Contract Management",
   "Negotiation Skills",
   "Public Relations", 
-  "Contract Management",
-  "Logistics Operation",
-  "Supplier Management",
   ]
 ---
 
-- **Negotiation Expertise**: Demonstrated proficiency in cost-effective commercial and legal negotiations, managing supplier agreements, dispute resolutions, and beneficiary negotiations to optimize business outcomes.
+- Expertise in cost-effective ***negotiations***, managing supplier agreements, dispute resolutions, and beneficiary negotiations to optimize business results.
 
-- **Corporate Legal Management**: Extensive experience in overseeing corporate legal operations, ensuring regulatory compliance, managing HR functions, and administering contracts to achieve operational excellence.
+- Extensive experience in ***corporate legal management***, overseeing compliance, HR functions, and contracts to ensure operational excellence.
 
-`**Public Relations Proficiency**: Highly skilled in enhancing relationships with government agencies and clients, driving improved market presence and strategic partnerships.
+- Proficient in ***public relations***, strengthening relationships with government agencies and clients to boost market presence and strategic partnerships.
 
 
 

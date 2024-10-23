@@ -5,15 +5,22 @@ tags: ["AI Legal Solutions","ChatGPT Integration","CLI","Legal Research", "Autom
 date: 2023
 ---
 
-**TerminatorXLegalStudy** revolutionizes legal research and analysis by integrating AI solutions to enhance efficiency and precision in jurisprudence. This innovative command-line interface (CLI) enables legal professionals to leverage the power of ChatGPT for case briefing, note-taking, and legal research, significantly reducing the time spent on traditional study methods.
+**TerminatorXLegalStudy** transforms legal research and analysis by harnessing AI solutions to boost efficiency and precision in jurisprudence. This innovative command-line interface (CLI) empowers legal professionals to tap into the capabilities of **ChatGPT** for case briefing, note-taking, and legal research, drastically minimizing the time spent on traditional study methods.
 
 **Key Features:**
-**AI-Powered Legal Assistance:** Utilize ChatGPT to perform rapid case briefings and generate insightful notes tailored to specific legal domains and jurisdictions.
-**User-Friendly CLI:** Clone the repository and run the tls.sh script to access an intuitive menu for selecting various legal research options.
-Non-Login Integration: Simplify access and streamlining the process of interacting with ChatGPT.
+
+**AI-Powered Legal Assistance:** Quickly generate case briefings and insightful notes tailored to specific legal domains and jurisdictions using ChatGPT.
+
+**User-Friendly CLI:** Clone the repository and execute the tls.sh script to navigate an intuitive menu for diverse legal research options.
+
+**Non-Login Integration:** Simplify access and streamline interactions with ChatGPT for a seamless user experience.
 
 **Technologies Used:**
-**ChatGPT API:** Leverage AI capabilities for intelligent legal responses.
-**Bash Scripting:** Automate processes and create a user-friendly command-line interface.
-**Lynx Text Browser:** Enable text-based web interactions for seamless auto-login.
+**OpenGPT API:** Harness advanced AI capabilities for intelligent legal responses.
+
+**Bash Scripting:** Automate processes to create a smooth command-line interface.
+
+**Lynx**: Facilitate text-based web interactions for effortless auto-login.
+
+This project revolutionizes the way legal professionals conduct research, enabling them to work smarter and faster!
 
