@@ -2,8 +2,8 @@
 title: Project Manager
 date: Jun.2013-Jan.2021
 url: https://www.cnpc.com.cn/en/
-location: Menodza, Santa Cruz, Lima
-org: China National Petroleum Corporation(CNPC)
+location: Mendoza, Santa Cruz, Lima
+org: CNPC(China National Petroleum Corporation)
 tags:
   [
   "Supply Chain Management",

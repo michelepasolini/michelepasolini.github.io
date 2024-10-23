@@ -1,5 +1,5 @@
 ---
 title: Blog
 icon: mdi:blog
-url: https://t.me/
+url: https://n173sh4d0w.github.io/
 ---
