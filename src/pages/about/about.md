@@ -6,15 +6,7 @@ location: Dublin, IE
 website: "http://tafutza.hn/kos"
 ---
 
-With law in my past and code in my hands, \
-I aim for the Red Team’s bold command. \
-A Pentester Jr, eager and bright, \
-Full-stack dev by day, OffSec by night.\
-\
-Proactive and sharp, with a legal twist, \
-I seek out the flaws others might miss. \
-Resilient, responsible, detail in my sights, \
-I'm ready to conquer the toughest of fights!
+I am a dedicated legal professional with a strong foundation in legal studies and a passion for OffSec. With over seven years as a project manager in the energy sector, I excel in negotiations and supply chain management. My knowledge in full-stack programming and Android development enhances my understanding of business logic. I embody persistence, proactivity, resilience, and responsibility, driving innovative solutions for a secure digital environment.
 
 
 

@@ -2,7 +2,7 @@
 title: Google Digital Marketing & E-commerce Professional Certificate
 org: Google
 tags: [SEO, Social Media Marketing, Email Marketing, Marketing Analysis, E-commerce, Customer Relations]
-url: //googledrive
+url: https://drive.proton.me/urls/CMBT9ZB7BG#WMlJPWQa4KgG
 date: May.2024
 ---
 
