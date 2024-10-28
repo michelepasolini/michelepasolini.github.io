@@ -1,22 +1,15 @@
 ---
-title: Pentesting Jr. 
-date: Jun.2023 - Sep.2023
-url: https://7asecurity.com/
-location: Warsaw(Remote)
-org: 7A Security
+title: DEMAND PLANNER
+date: Feb 2022 - March 2024
+url: https://www.kelloggs.ie/en_IE/home.html
+location: Dublin, Ireland
+org: KELLOGG GROUP
 tags:
-  [
-  "Vulnerability Assessment", 
-  "Penetration Testing",
-  "Report Proofreading",
-  ]
+  [ "Demand Forecasting", "Data Visibility","Process Automation"]
 ---
 
-- Conduct comprehensive ***vulnerability assessments*** on systems and applications to identify security weaknesses and potential exploitation points.
+- Led sales volume forecasting for short, medium, and long-term periods, ensuring financial alignment and fostering collaboration between sales and finance teams.
 
-- ***Support*** senior penetration testers in executing simulated attacks, documenting findings, and delivering actionable remediation recommendations.
+- Improved data visibility and communication across supply chain teams and external partners through advanced reporting solutions, driving risk identification and performance improvements.
 
-- Assist in preparing detailed ***reports*** outlining testing methodologies, results, and security recommendations to enhance client understanding and strengthen security posture.
-
-
-
+- Developed dashboards to monitor long-term production forecasts, track lost sales due to supply issues, and streamlined processes for greater efficiency and automation.

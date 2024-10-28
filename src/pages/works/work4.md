@@ -1,26 +1,15 @@
 ---
-title: Project Manager
-date: Jun.2013-Jan.2021
-url: https://www.cnpc.com.cn/en/
-location: Mendoza, Santa Cruz, Lima
-org: CNPC(China National Petroleum Corporation)
+title: SUPPLY PLANNING AND PURCHASING  
+date: Jan 2017 - Dec 2017
+url: https://misanimilano.com/en/
+location: Milan, Italy
+org: MISANI SPA
 tags:
-  [
-  "Supply Chain Management",
-  "Contract Management",
-  "Negotiation Skills",
-  "Public Relations", 
-  ]
+  ["Inventory Optimization", "Supplier Management", "Logistics Coordination"]
 ---
 
-- Expertise in cost-effective ***negotiations***, managing supplier agreements, dispute resolutions, and beneficiary negotiations to optimize business results.
+- Conducted inventory analysis for budget forecasting in the luxury industry, optimizing supply efficiency by closely monitoring material rotation rates.
 
-- Extensive experience in ***corporate legal management***, overseeing compliance, HR functions, and contracts to ensure operational excellence.
+- Coordinated product shipments with customs and freight agents, while overseeing production sites in collaboration with the sales department to ensure seamless operations.
 
-- Proficient in ***public relations***, strengthening relationships with government agencies and clients to boost market presence and strategic partnerships.
-
-
-
-
-
-
+- Managed the procurement of raw materials and semi-finished products by researching and evaluating new suppliers, synchronizing delivery schedules with production line planning.

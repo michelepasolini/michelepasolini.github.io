@@ -1,14 +1,14 @@
 ---
-title: Bachelor Degree of Spanish Literature
-institute: Shandong Normal University
-location: Shandong, China
-url: https://sdnu.edu.cn/
-date: 2009-2013
+title: Bachelor of ECONOMICS AND MANAGEMENT COMPANY 
+location: Milan
+url: https://www.unicatt.it/
+institute: Università Cattolica del Sacro Cuore di Milano
+date: 2006-2010
 tags:
   [
-    "Spanish Literature", 
-    "SouthAmerica Literature",
-    "Spanish Economy", 
-    "Spanish history",
+    "Supply Chain",
+    "#Corporate Economics",
+    "Future Business Leader",
+    "BizEconomics Expert",
   ]
 ---

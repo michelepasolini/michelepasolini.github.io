@@ -1,5 +1,5 @@
 ---
 title: Email
 icon: carbon:email
-url: mailto:xavier.z.wagner@protonmail.com
+url: mailto:michele.pasolini@gmail.com
 ---

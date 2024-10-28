@@ -1,5 +1,5 @@
 ---
-title: whatsapp
+title: Whatsapp
 icon: mdi:whatsapp
-url: https://wa.me/+353834362765 
+url: https://wa.me/+353838919241
 ---

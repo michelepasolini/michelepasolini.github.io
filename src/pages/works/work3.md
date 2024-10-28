@@ -1,21 +1,15 @@
 ---
-title: Product Manager
-date: Feb.2021-Jul.2021
-url: https://www.richfitint.com/
-location: Beijing
-org: Richfit IT Co.LTD(China)
+title: WW INVENTORY PLANNING AND ANALYST 
+date: Jan 2018 - Jan 2022
+url: https://www.kelloggs.ie/en_IE/home.html
+location: Dublin, Ireland
+org: LVMH
 tags:
-  [
-  "Product Strategy", 
-  "Cross-Functional Collaboration",
-  "Market Analysis",
-  ]
+  [ "Stock Forecasting", "Inventory Management", "Process Optimization"]
 ---
-- Lead the development and execution of ***product roadmaps***, aligning technology solutions with industry trends and client needs to drive growth in petroleum services.
 
-- ***Collaborate*** with engineering, marketing, and sales teams to ensure product alignment with business goals and enable successful product launches.
+- Forecasted stock levels for both active and obsolete products in the luxury jewelry and watch sector, effectively managing planning processes such as open-to-assortment (OTA) and open-to-buy (OTB) to adapt to production constraints and demand fluctuations.
 
-- Conduct ***market research and competitive analysis*** to identify opportunities, inform product enhancements, and strengthen positioning in the petroleum sector.
+- Collaborated with merchandising teams to meet service level goals, supported new store openings through benchmarking analysis, and coordinated with central finance to establish stock targets and monitor inventory performance.
 
-
-
+- Spearheaded an obsolescence campaign and led multifunctional initiatives to enhance stock performance, driving process improvements and supporting long-term capacity scaling for production.

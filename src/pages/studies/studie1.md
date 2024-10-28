@@ -1,23 +1,8 @@
 ---
-title: Master of Common Law
-institute: University of College Dublin (UCD)
-location: Dublin, Ireland
-url: https://www.ucd.ie/
-date: 2021-2024
-tags:
-  [
-    "Data Governance and Data Protection Law(GDPR)",
-    "Cybercrime Law",
-    "Criminal Law",
-    "Constitutional Law",
-    "Company Law",
-    "Property Law",
-    "Contract Law",
-    "Evidence Law",
-    "EU&Commerical Law",
-    "Trust Law",
-    "Equity Law",
-    "Administration Law",
-    "International Taxation Law",
-  ]
+title: MASTER DEGREE IN ECONOMICS
+location: Milan
+url: https://www.unicatt.it/
+institute: Università Cattolica del Sacro Cuore di Milano Market and strategic Business
+date: 2010-2013
+tags: ["US market", "Strategic Planning", "Strategic Economics", "Master Of Finance"]
 ---
