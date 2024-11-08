@@ -1,7 +1,7 @@
 ---
 title: WW INVENTORY PLANNING AND ANALYST 
 date: Jan 2018 - Jan 2022
-url: https://www.kelloggs.ie/en_IE/home.html
+url: https://www.bulgari.com/en-ie/?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1h_T-KwT9yBmkzqHb4ZsUm08czYwYTMYzcTLWwxyjOxba-lP1lJl_QaAhvoEALw_wcB&gclsrc=aw.ds
 location: Dublin, Ireland
 org: LVMH
 tags:
